@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mantri RajaSekhar</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="profile">Profile</string>
+    <string name="allnews">All News</string>
+    <string name="localnews">Local News</string>
+    <string name="rinlnews">RINL News</string>
+    <string name="achievmentnews">Achievement</string>
+    <string name="manifesto">Manifesto</string>
+    <string name="gallery">Gallery</string>
+    <string name="speech">Speech</string>
+    <string name="setting">Setting</string>
+    <string name="contactus">Contact Us</string>
+
+</resources>

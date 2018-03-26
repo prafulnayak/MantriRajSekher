@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".NewsActivity">
+
+    <item
+        android:id="@+id/menu_about_us"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="never"
+        android:title="@string/profile"
+        />
+    <item
+        android:id="@+id/menu_news"
+        android:icon="@drawable/ic_news"
+        android:title="@string/allnews"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_localnews"
+        android:icon="@drawable/ic_local_news"
+        android:title="@string/localnews"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_steel_news"
+        android:icon="@drawable/ic_steel_news"
+        android:title="@string/rinlnews"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_achievement"
+        android:icon="@drawable/ic_achievement"
+        android:title="@string/achievmentnews"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_manifesto"
+        android:icon="@drawable/ic_manifesto"
+        android:title="@string/manifesto"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_galary"
+        android:icon="@drawable/ic_gallery"
+        android:title="@string/gallery"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_speach"
+        android:icon="@drawable/ic_speech"
+        android:title="@string/speech"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/setting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_contact_us"
+        android:icon="@drawable/ic_contact_us"
+        android:title="@string/contactus"
+        app:showAsAction="never" />
+
+</menu>
